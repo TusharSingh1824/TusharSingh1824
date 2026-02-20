@@ -12,8 +12,10 @@ Building Transformer-based NLP systems and production-ready ML solutions 🚀
 - 🎓 B.Tech CSE | CGPA: 9.11  
 - 🤖 Strong foundation in Machine Learning & Deep Learning  
 - 🧠 Experienced with Transformers, BERT, LSTM & NLP pipelines  
+- 🧩 Solid understanding of Data Structures & Algorithms (DSA)  
+- 💻 Active problem solver on LeetCode  
 - 🔍 Interested in LLM fine-tuning & real-world AI deployment  
-- 🚀 Passionate about building scalable AI systems  
+- 🚀 Passionate about building scalable AI systems   
 
 ---
 
